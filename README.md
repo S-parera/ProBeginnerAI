@@ -5,3 +5,4 @@ Repostory for ProBeginnerAI blog
 2- Polynomial Regression<br>
 3- Logistic Regression<br>
 4- Feature selection and SVM
+5- Convolutional Neural Networks
